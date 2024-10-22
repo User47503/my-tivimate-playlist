@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="channel1" tvg-name="TNT SPORTS" group-title="Group" tvg-logo="https://example.com/logo.png",Channel 1
+https://d7.hamaradilhai.com:999/hls/t08.m3u8?md5=MLIMwWd0rrM-aF0HauPM7Q&expires=1729620344
