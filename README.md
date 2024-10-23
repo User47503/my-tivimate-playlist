@@ -1,4 +1,4 @@
-Hi I made an m3u playlist for Australians that is for tivimate it includes all Australian fta channels plus American cable and Uk channels around 400plus channels
+Hi I made a m3u playlist for Australians that is for tivimate it includes all Australian fta channels plus American cable and Uk channels around 400plus channels
 
 Credit goes to https://github.com/matthuisma https://github.com/dtankdempse/daddylive-m3u
 
