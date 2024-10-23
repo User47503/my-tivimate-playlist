@@ -3,7 +3,7 @@
 https://xyzdddd.mizhls.ru/lb/premium51/index.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
 
 #EXTINF:-1 channel-id="mjh-seven-bri" tvg-id="mjh-seven-bri" tvg-logo="https://i.mjh.nz/.images/seven-bri.png" tvg-chno="7" group-title="Brisbane" , Seven
-pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers user-agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/98.0.4758.102\ Safari/537.36\r\nseekable:\ 0\r\nreferer:\ \ \r\n -i https://i.mjh.nz/.r/seven-bri.m3u8 -vcodec copy -acodec copy -metadata service_name=mjh-seven-bri -f mpegts pipe:1
+https://i.mjh.nz/.r/seven-bri.m3u8
 
 
 #EXTINF:-1 tvg-id="AandE.us" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png" group-title="USA (DADDY LIVE)" ,A&E
