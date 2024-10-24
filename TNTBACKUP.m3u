@@ -1,13 +1,13 @@
 #EXTM3U 
 
 #EXTINF:-1 tvg-id="8229" tvg-name="TNT SPORTS 3 BACKUP" group-title="Group" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png",TNT SPORTS 1 
-https://d2.hamaradilhai.com:999/hls/t01.m3u8?md5=Hmtr7r1vc8rVfhSamOX9Ew&expires=1729794376
+https://d4.hamaradilhai.com:999/hls/t01.m3u8?md5=rvKromZT6ohaCvunE_M7vw&expires=1729802066
 
 #EXTINF:-1 tvg-id="8230" tvg-name="TNT SPORTS 3 BACKUP" group-title="Group" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-2-uk.png",TNT SPORTS 2
 https://pl1.hamaradilhai.com:999/hls/bbtsp3.m3u8?md5=gh65RdxgEzD0ExmnlddwrQ&expires=1729794433
 
 #EXTINF:-1 tvg-id="8229" tvg-name="TNT SPORTS 1 BACKUP" group-title="Group" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png",TNT SPORTS 1 
-https://d3.hamaradilhai.com:999/hls/t08.m3u8?md5=3is6TLe0Rec98BfpHb-P_g&expires=1729794639
+https://pl1.hamaradilhai.com:999/hls/t08.m3u8?md5=zOFQWnjP-C8paSr40gyl2A&expires=1729802005
 
 
 #EXTINF:-1 tvg-id="8230" tvg-name="TNT SPORTS 1 BACKUP" group-title="Group" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-2-uk.png",TNT SPORTS 2
